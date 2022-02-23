@@ -1,0 +1,262 @@
+date,auteur,titre,fabula,canon,sexe
+1811,françois rene de chateaubriand,oeuvres completes,True,canon,m
+1816,benjamin constant,adolphe,True,canon,m
+1821,charles victor arlincourt,le solitaire,False,canon,m
+1829,victor hugo,le dernier jour d un condamne,True,canon,m
+1830,stendhal,le rouge et le noir,True,canon,m
+1831,victor hugo,notre dame de paris,True,canon,m
+1831,victor hugo,notre dame de paris,True,canon,m
+1832,alfred de vigny,stello,True,canon,m
+1834,victor hugo,claude gueux,True,canon,m
+1834,beuve sainte,volupte,True,canon,m
+1834,beuve sainte,volupte,True,canon,m
+1835,theophile gautier,mademoiselle de maupin,True,canon,m
+1836,alfred de musset,la confession d un enfant du siecle,True,canon,m
+1839,stendhal,la chartreuse de parme,True,canon,m
+1840,george sand,pauline,True,canon,f
+1842,honore de balzac,beatrix,True,canon,m
+1842,honore de balzac,la femme de trente ans,True,canon,m
+1842,honore de balzac,le contrat de mariage,True,canon,m
+1843,honore de balzac,eugenie grandet,True,canon,m
+1843,honore de balzac,illusions perdues,True,canon,m
+1843,honore de balzac,le cure de tours,True,canon,m
+1843,honore de balzac,le pere goriot,True,canon,m
+1843,honore de balzac,pierrette,True,canon,m
+1843,alexandre dumas,le corricolo,True,canon,m
+1844,honore de balzac,le colonel chabert,True,canon,m
+1844,honore de balzac,le lys dans la vallee,True,canon,m
+1844,honore de balzac,splendeurs et miseres des courtisanes,True,canon,m
+1844,françois rene de chateaubriand,vie de rance,True,canon,m
+1844,alexandre dumas,les trois mousquetaires,True,canon,m
+1845,honore de balzac,adieu,True,canon,m
+1845,honore de balzac,un debut dans la vie,True,canon,m
+1845,alexandre dumas,la reine margot,True,canon,m
+1845,alexandre dumas,le comte de monte cristo,True,canon,m
+1845,alexandre dumas,vingt ans apres,True,canon,m
+1846,honore de balzac,le cure de village,True,canon,m
+1846,honore de balzac,le medecin de campagne,True,canon,m
+1846,honore de balzac,louis lambert,True,canon,m
+1846,honore de balzac,physiologie du mariage,True,canon,m
+1846,honore de balzac,une tenebreuse affaire,True,canon,m
+1846,alexandre dumas,la dame de monsoreau,True,canon,m
+1846,tarbe des sablons mme,isabelle,False,canon,f
+1846,george sand,la mare au diable,True,canon,f
+1848,alexandre dumas,la dame aux camelias,True,canon,m
+1849,françois rene de chateaubriand,memoires d outre tombe,True,canon,m
+1849,françois rene de chateaubriand,memoires d outre tombe,True,canon,m
+1849,françois rene de chateaubriand,memoires d outre tombe,True,canon,m
+1849,françois rene de chateaubriand,memoires d outre tombe,True,canon,m
+1849,françois rene de chateaubriand,memoires d outre tombe,True,canon,m
+1849,george sand,la petite fadette,True,canon,f
+1850,alexandre dumas,le vicomte de bragelonne,True,canon,m
+1854,d aurevilly jules barbey,l ensorcelee,True,canon,m
+1855,honore de balzac,les paysans,True,canon,m
+1855,stendhal,chroniques italiennes,True,canon,m
+1857,paul feval,le bossu,False,canon,m
+1857,gustave flaubert,madame bovary,True,canon,m
+1858,comtesse de segur,les malheurs de sophie,False,canon,f
+1860,chatrian erckmann,contes fantastiques,False,canon,m
+1860,edmond de goncourt jules de goncourt,charles demailly,True,canon,m
+1862,victor hugo,les miserables,True,canon,m
+1863,cesarie farrenc,la jalousie,False,canon,f
+1863,eugene fromentin,dominique,True,canon,m
+1863,theophile gautier,le capitaine fracasse,True,canon,m
+1863,jules verne,cinq semaines en ballon,True,canon,m
+1864,d aurevilly jules barbey,le chevalier des touches,True,canon,m
+1864,edmond de goncourt jules de goncourt,renee mauperin,True,canon,m
+1864,edmond de goncourt jules de goncourt,germinie lacerteux,True,canon,m
+1864,jules verne,voyage au centre de la terre,True,canon,m
+1866,victor hugo,les travailleurs de la mer,True,canon,m
+1868,emile zola,therese raquin,True,canon,m
+1869,victor hugo,l'homme qui rit,True,canon,m
+1869,comte de lautreamont,les chants de maldoror,True,canon,m
+1869,henri murger,scenes de la vie de boheme,False,canon,m
+1870,jules verne,vingt mille lieues sous les mers,True,canon,m
+1870,emile zola,la fortune des rougon,True,canon,m
+1872,emile zola,la curee,True,canon,m
+1873,alphonse daudet,contes du lundi,True,canon,m
+1873,emile zola,le ventre de paris,True,canon,m
+1874,d aurevilly jules barbey,les diaboliques,True,canon,m
+1874,gustave flaubert,la tentation de saint antoine,True,canon,m
+1874,victor hugo,quatrevingt treize,True,canon,m
+1875,alphonse daudet,jack,True,canon,m
+1875,emile zola,la faute de l abbe mouret,True,canon,m
+1876,george sand,horace,True,canon,f
+1876,emile zola,son excellence eugene rougon,True,canon,m
+1877,edmond de goncourt jules de goncourt,la fille elisa,True,canon,m
+1878,jules verne,un capitaine de quinze ans,True,canon,m
+1878,emile zola,madeleine ferat,True,canon,m
+1879,alphonse daudet,lettres de mon moulin,True,canon,m
+1879,joris karl huysmans,les soeurs vatard,True,canon,m
+1880,emile zola,nana,True,canon,m
+1881,gustave flaubert,bouvard et pecuchet,True,canon,m
+1881,jules valles,l enfant,True,canon,m
+1881,jules valles,le bachelier,True,canon,m
+1882,de maupassant guy,mademoiselle fifi,True,canon,m
+1883,de maupassant guy,une vie,True,canon,m
+1883,emile zola,au bonheur des dames,True,canon,m
+1884,alphonse daudet,sapho,True,canon,m
+1884,de maupassant guy,au soleil,True,canon,m
+1884,de maupassant guy,clair de lune,True,canon,m
+1884,joris karl huysmans,a rebours,True,canon,m
+1884,emile zola,la joie de vivre,True,canon,m
+1885,de maupassant guy,bel ami,True,canon,m
+1885,de maupassant guy,contes du jour et de la nuit,True,canon,m
+1885,jules verne,mathias sandorf,True,canon,m
+1885,emile zola,germinal,True,canon,m
+1886,louise michel,memoires,True,canon,f
+1887,leon bloy,le desespere,True,canon,m
+1887,de maupassant guy,mont oriol,True,canon,m
+1887,pierre loti,madame chrysantheme,True,canon,m
+1887,emile zola,la terre,True,canon,m
+1888,de maupassant guy,pierre et jean,True,canon,m
+1888,emile zola,le reve,True,canon,m
+1889,de maupassant guy,la main gauche,True,canon,m
+1890,de maupassant guy,notre coeur,True,canon,m
+1890,emile zola,la bete humaine,True,canon,m
+1891,emile zola,l argent,True,canon,m
+1892,georges rodenbach,bruges la morte,True,canon,m
+1892,emile zola,la debacle,True,canon,m
+1893,maurice leblanc,une femme,False,canon,m
+1893,jules renard,coquecigrues,True,canon,m
+1893,paul verlaine,mes prisons,True,canon,m
+1893,emile zola,le docteur pascal,True,canon,m
+1894,jules renard,poil de carotte,True,canon,m
+1894,stendhal,lucien leuwen,True,canon,m
+1895,maurice leblanc,contes,False,canon,m
+1896,marcel schwob,vies imaginaires,True,canon,m
+1900,octave mirbeau,le journal d une femme de chambre,True,canon,m
+1904,romain rolland,jean christophe,True,canon,m
+1904,romain rolland,jean christophe,True,canon,m
+1904,romain rolland,jean christophe,True,canon,m
+1905,claude farrere,les civilises,False,canon,m
+1905,romain rolland,jean christophe,True,canon,m
+1907,emile moselly,terres lorraines,False,canon,m
+1908,henri barbusse,l enfer,True,canon,m
+1908,romain rolland,jean christophe,True,canon,m
+1908,romain rolland,jean christophe,True,canon,m
+1908,romain rolland,jean christophe,True,canon,m
+1909,claude farrere,la bataille,False,canon,m
+1910,marguerite audoux,marie claire,False,canon,f
+1910,romain rolland,jean christophe,True,canon,m
+1911,romain rolland,jean christophe,True,canon,m
+1912,louis pergaud,la guerre des boutons,False,canon,m
+1912,romain rolland,jean christophe,True,canon,m
+1913,fournier alain,le grand meaulnes,True,canon,m
+1913,henry bordeaux,la maison,False,canon,m
+1914,andre gide,les caves du vatican,True,canon,m
+1916,henri barbusse,le feu,True,canon,m
+1919,pierre benoit,l atlantide,False,canon,m
+1922,louis aragon,les aventures de telemaque,True,canon,m
+1922,paul fils feval,le bossu,False,canon,m
+1923,alphonse de chateaubriant,la briere,False,canon,m
+1923,raymond radiguet,le diable au corps,False,canon,m
+1925,maurice genevoix,raboliot,False,canon,m
+1925,marcel proust,albertine disparue,True,canon,m
+1926,georges bernanos,sous le soleil de satan,True,canon,m
+1926,colette,la fin de cheri,True,canon,f
+1926,joseph kessel,les captifs,True,canon,m
+1927,colette,le ble en herbe,True,canon,f
+1927,andre gide,les faux monnayeurs,True,canon,m
+1928,colette,la naissance du jour,True,canon,f
+1929,georges bernanos,la joie,True,canon,m
+1930,colette,sido,True,canon,f
+1930,jean giono,regain,True,canon,m
+1930,andre malraux,la voie royale,True,canon,m
+1931,exupery antoine de saint,vol de nuit,True,canon,m
+1932,louis ferdinand celine,voyage au bout de la nuit,True,canon,m
+1933,georges duhamel,le notaire du havre,True,canon,m
+1933,andre malraux,la condition humaine,True,canon,m
+1934,colette,les vrilles de la vigne,True,canon,f
+1934,roger vercel,capitaine conan,False,canon,m
+1935,delly,contes,False,canon,mf
+1936,louis aragon,les beaux quartiers,True,canon,m
+1936,jean giono,les vraies richesses,True,canon,m
+1938,paul nizan,la conspiration,True,canon,m
+1939,michel leiris,l age d homme,True,canon,m
+1939,exupery antoine de saint,terre des hommes,True,canon,m
+1939,nathalie sarraute,tropismes,True,canon,f
+1942,albert camus,l etranger,True,canon,m
+1944,albert camus,le premier homme,True,canon,m
+1947,albert camus,la peste,True,canon,m
+1950,marguerite duras,un barrage contre le pacifique,True,canon,f
+1951,samuel beckett,molloy,True,canon,m
+1951,jean giono,le hussard sur le toit,True,canon,m
+1951,julien gracq,le rivage des syrtes,True,canon,m
+1953,grillet alain robbe,les gommes,True,canon,m
+1954,simone de beauvoir,les mandarins,True,canon,f
+1954,simone de beauvoir,les mandarins,True,canon,f
+1954,albert cohen,le livre de ma mere,True,canon,m
+1956,romain gary,les racines du ciel,True,canon,m
+1958,joseph kessel,le lion,True,canon,m
+1959,raymond queneau,zazie dans le metro,True,canon,m
+1960,romain gary,la promesse de l aube,True,canon,m
+1960,marcel pagnol,le temps des secrets,False,canon,m
+1960,claude simon,la route des flandres,True,canon,m
+1965,georges perec,les choses,True,canon,m
+1967,claude simon,histoire,True,canon,m
+1967,michel tournier,vendredi ou les limbes du pacifique,True,canon,m
+1968,marguerite yourcenar,l oeuvre au noir,True,canon,f
+1969,magali,la prisonniere,False,canon,f
+1969,felicien marceau,creezy,False,canon,m
+1969,francois mauriac,un adolescent d autrefois,True,canon,m
+1970,michel deon,les poneys sauvages,False,canon,m
+1970,michel tournier,le roi des aulnes,True,canon,m
+1971,jacques laurent,les betises,False,canon,m
+1971,michel tournier,vendredi ou la vie sauvage,True,canon,m
+1972,louis aragon,aurelien,True,canon,m
+1972,patrick modiano,les boulevards de ceinture,True,canon,m
+1973,michel deon,un taxi mauve,False,canon,m
+1973,eugene ionesco,le solitaire,True,canon,m
+1974,pascal laine,la dentelliere,False,canon,m
+1974,marguerite yourcenar,souvenirs pieux,True,canon,f
+1975,emile gary romain ajar,la vie devant soi,True,canon,m
+1975,marie cardinal,les mots pour le dire,False,canon,f
+1977,patrick modiano,livret de famille,True,canon,m
+1978,patrick modiano,rue des boutiques obscures,True,canon,m
+1978,georges perec,la vie mode d emploi,True,canon,m
+1980,clezio jean marie gustave le,desert,True,canon,m
+1983,jean echenoz,cherokee,True,canon,m
+1983,annie ernaux,la place,True,canon,f
+1983,nathalie sarraute,enfance,True,canon,f
+1984,marguerite duras,l amant,True,canon,f
+1988,erik orsenna,l exposition coloniale,False,canon,m
+1991,pierre combescot,les filles du calvaire,False,canon,m
+1991,pierre michon,rimbaud le fils,True,canon,m
+1991,pascal quignard,tous les matins du monde,True,canon,m
+1994,albert camus,le premier homme,True,canon,m
+1994,olivier rolin,port soudan,True,canon,m
+1995,emmanuel carrere,la classe de neige,True,canon,m
+1996,jean rolin,l organisation,True,canon,m
+1998,paule constant,confidence pour confidence,False,canon,f
+1998,didier daeninckx,cannibale,True,canon,m
+1998,marc dugain,la chambre des officiers,False,canon,m
+1999,jean echenoz,je m en vais,True,canon,m
+1999,antoine volodine,des anges mineurs,True,canon,m
+2001,christian gailly,un soir au club,False,canon,m
+2001,laurent gaude,cris,False,canon,m
+2001,grillet alain robbe,la reprise,True,canon,m
+2001,jean christophe rufin,rouge bresil,False,canon,m
+2002,laurent gaude,la mort du roi tsongor,False,canon,m
+2003,frederic beigbeder,windows on the world,False,canon,m
+2004,philippe grimbert,un secret,False,canon,m
+2005,nina bouraoui,mes mauvaises pensees,False,canon,f
+2005,sylvie germain,magnus,True,canon,f
+2006,marie nimier,la reine du silence,False,canon,f
+2007,philippe claudel,le rapport de brodeck,False,canon,m
+2007,vigan delphine de,no et moi,False,canon,f
+2008,henry bauchau,le boulevard peripherique,True,canon,m
+2008,catherine cusset,un brillant avenir,False,canon,f
+2008,mathias enard,zone,True,canon,m
+2009,pierre michon,les onze,True,canon,m
+2009,diaye marie n,trois femmes puissantes,True,canon,f
+2009,jean philippe toussaint,la verite sur marie,True,canon,m
+2009,delphine de vigan,les heures souterraines,False,canon,f
+2010,michel houellebecq,la carte et le territoire,True,canon,m
+2010,maylis de kerangal,naissance d un pont,True,canon,f
+2012,patrick deville,peste et cholera,False,canon,m
+2012,mathieu riboulet,les oeuvres de misericorde,False,canon,m
+2013,marie darrieussecq,il faut beaucoup aimer les hommes,True,canon,f
+2013,alice ferney,cherchez la femme,False,canon,f
+2013,alice zeniter,sombre dimanche,False,canon,f
+2014,maylis de kerangal,reparer les vivants,True,canon,f
