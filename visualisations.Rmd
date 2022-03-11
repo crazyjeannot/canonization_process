@@ -1,0 +1,92 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(scales)
+library(ggplot2)
+```
+
+```{r}
+l <- read.csv('results_main_date.csv')
+l
+```
+
+
+```{r}
+model = lm(data = l, formula = proba.non.canon ~ date)
+intercept = coef(model)[1]
+slope = coef(model)[2]
+line = intercept + (slope * l$date)
+l$metadata = as.factor(l$metadata)
+levels(l$metadata) = c('non_canon', 'canon')
+p <- ggplot(l, aes(x = date, y = proba.non.canon, color = metadata, shape = metadata)) + theme_bw() +
+  geom_point() + geom_abline(intercept = intercept, slope = slope) + scale_shape_manual(name="metadonnée\n", values = c(1, 17)) + 
+  scale_color_manual(name = "metadonnée\n", values = c('gray40', 'gray0')) + 
+  theme(text = element_text(size = 16)) + 
+  scale_y_continuous("probabilité", labels = percent, breaks = c(0.25,0.5,0.75)) + 
+  scale_x_continuous("", breaks = c(1825, 1850, 1875, 1900, 1925, 1950, 1975, 2000))+
+  annotate("text", x=l$date[9], y=l$proba.canon[9], label=l$index[9])+
+  annotate("text", x=l$date[83], y=l$proba.canon[83], label=l$index[83])+
+  annotate("text", x=l$date[51], y=l$proba.canon[51], label=l$index[51])+
+  annotate("text", x=l$date[34], y=l$proba.canon[34], label=l$index[34])
+
+
+
+
+```
+```{r}
+plot(p)
+```
+
+
+
+```{r}
+
+tiff("modelvis_main.tiff", height = 6, width = 9, units = 'in', res=400)
+
+tp = sum(l$metadata == 'canon' & l$proba.non.canon >= 0.5)
+tn = sum(l$metadata == 'non_canon' & l$proba.non.canon < 0.5)
+fp = sum(l$metadata == 'non_canon' & l$proba.non.canon >= 0.5)
+fn = sum(l$metadata == 'canon' & l$proba.non.canon < 0.5)
+print((tp + tn) / (tp+tn+fp+fn))
+
+```
+
+
+```{r}
+f <- read.csv('results_fabula_date.csv')
+f
+```
+
+```{r}
+model = lm(data = f, formula = proba.non.canon ~ date)
+intercept = coef(model)[1]
+slope = coef(model)[2]
+line = intercept + (slope * f$date)
+f$metadata = as.factor(f$metadata)
+levels(f$metadata) = c('canon', 'non_canon')
+p <- ggplot(f, aes(x = date, y = proba.non.canon, color = metadata, shape = metadata)) + theme_bw() +
+  geom_point() + geom_abline(intercept = intercept, slope = slope) + scale_shape_manual(name="metadonnée\n", values = c(17, 1)) + 
+  scale_color_manual(name = "metadonnée\n", values = c('gray0', 'gray40')) + 
+  theme(text = element_text(size = 16)) + 
+  scale_y_continuous("probabilité", labels = percent, breaks = c(0.25,0.5,0.75)) +
+  scale_x_continuous("", breaks = c(1825, 1850, 1875, 1900, 1925, 1950, 1975, 2000))+
+  annotate("text", x=f$date[40], y=f$proba.canon[40], label=f$index[40])+
+  annotate("text", x=f$date[241], y=f$proba.canon[241], label=f$index[241])
+
+
+
+```
+
+
+```{r}
+plot(p)
+```
+```{r}
+dev.off()
+plot(p)
+```
+
